@@ -1,6 +1,6 @@
 # TASK2
-# TO CREATE THE ALL THE POSTIVE NUMBERS
-x = int(input("Enter the length of list"))
+# TO CREATE THE ALL THE POSITIVE NUMBERS
+x = int(input("Enter the length of list: "))
 data[]
 list[]
 for i in range(x):
