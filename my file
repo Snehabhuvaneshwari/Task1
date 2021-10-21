@@ -1,1 +1,17 @@
-#manzcovhoalzv zbl nbsiiz ipx
+# TASK2
+# TO CREATE THE ALL THE POSTIVE NUMBERS
+x = int(input("Enter the length of list"))
+data[]
+list[]
+for i in range(x):
+  num =int(input("Enter the element: "))
+  data.append(num)
+ print(data) 
+for data in (data):
+  if data>0:
+    pos=data
+    list.append(pos)
+print(list)    
+    
+  
+ 
